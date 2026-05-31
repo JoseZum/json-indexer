@@ -1,0 +1,9 @@
+# Archivos de compilacion
+/build/
+/bin/
+
+# Archivos de indice generados
+*.jnx
+
+# Archivos de objeto
+*.o
