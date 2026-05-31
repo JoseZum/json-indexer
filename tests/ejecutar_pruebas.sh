@@ -64,7 +64,7 @@ if [[ ! -x "${BIN}" ]]; then
 fi
 
 echo
-echo "=== Bateria 1: datos.json (ejemplo del enunciado) ==="
+echo "Batería 1: datos.json (ejemplo del enunciado)"
 
 JSON_DATOS="${DIR_SCRIPT}/datos.json"
 "${BIN}" build "${JSON_DATOS}" >/dev/null
@@ -110,7 +110,7 @@ verificar_igual "Busqueda sin coincidencias devuelve []" \
     "${resultado}" '[]'
 
 echo
-echo "=== Bateria 2: empresa.json (estructura anidada compleja) ==="
+echo "Bateria 2: empresa.json (estructura anidada compleja)"
 
 JSON_EMPRESA="${DIR_SCRIPT}/empresa.json"
 "${BIN}" build "${JSON_EMPRESA}" >/dev/null
