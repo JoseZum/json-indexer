@@ -1,0 +1,33 @@
+{
+  "empresa": "Instituto Tecnologico",
+  "anio_fundacion": 1971,
+  "activa": true,
+  "departamentos": [
+    {
+      "nombre": "Computacion",
+      "edificio": "F2",
+      "empleados": [
+        { "id": 101, "nombre": "Marta",   "salario": 850000, "activo": true  },
+        { "id": 102, "nombre": "Roberto", "salario": 920000, "activo": true  },
+        { "id": 103, "nombre": "Sofia",   "salario": 770000, "activo": false }
+      ]
+    },
+    {
+      "nombre": "Electronica",
+      "edificio": "E3",
+      "empleados": [
+        { "id": 201, "nombre": "Carlos",  "salario": 880000, "activo": true  },
+        { "id": 202, "nombre": "Daniela", "salario": 910000, "activo": true  }
+      ]
+    }
+  ],
+  "contacto": {
+    "telefono": "2550-2000",
+    "correo": "info@tec.ac.cr",
+    "redes": {
+      "twitter": "@TECoficial",
+      "facebook": "TECCostaRica"
+    }
+  },
+  "valores": [ "excelencia", "innovacion", "compromiso" ]
+}

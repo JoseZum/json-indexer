@@ -1,0 +1,52 @@
+# Archivo de indice JSON (.jnx)
+# Formato: <ruta>\t<inicio>\t<fin>
+# Generado por libjsonindex
+# Archivo origen: /mnt/c/Users/jfzum/OneDrive/Documentos/TEC/SEM-5/SISTEMAS OPERATIVOS/Proyecto2/json-indexer/tests/empresa.json
+# Cantidad de entradas: 47
+/empresa	15	38
+/anio_fundacion	60	64
+/activa	78	82
+/departamentos	103	699
+/departamentos/0	109	439
+/departamentos/0/nombre	127	140
+/departamentos/0/edificio	160	164
+/departamentos/0/empleados	185	433
+/departamentos/0/empleados/0	195	265
+/departamentos/0/empleados/0/id	203	206
+/departamentos/0/empleados/0/nombre	218	225
+/departamentos/0/empleados/0/salario	240	246
+/departamentos/0/empleados/0/activo	258	262
+/departamentos/0/empleados/1	275	345
+/departamentos/0/empleados/1/id	283	286
+/departamentos/0/empleados/1/nombre	298	307
+/departamentos/0/empleados/1/salario	320	326
+/departamentos/0/empleados/1/activo	338	342
+/departamentos/0/empleados/2	355	425
+/departamentos/0/empleados/2/id	363	366
+/departamentos/0/empleados/2/nombre	378	385
+/departamentos/0/empleados/2/salario	400	406
+/departamentos/0/empleados/2/activo	418	423
+/departamentos/1	445	695
+/departamentos/1/nombre	463	476
+/departamentos/1/edificio	496	500
+/departamentos/1/empleados	521	689
+/departamentos/1/empleados/0	531	601
+/departamentos/1/empleados/0/id	539	542
+/departamentos/1/empleados/0/nombre	554	562
+/departamentos/1/empleados/0/salario	576	582
+/departamentos/1/empleados/0/activo	594	598
+/departamentos/1/empleados/1	611	681
+/departamentos/1/empleados/1/id	619	622
+/departamentos/1/empleados/1/nombre	634	643
+/departamentos/1/empleados/1/salario	656	662
+/departamentos/1/empleados/1/activo	674	678
+/contacto	715	867
+/contacto/telefono	733	744
+/contacto/correo	760	776
+/contacto/redes	791	863
+/contacto/redes/twitter	810	823
+/contacto/redes/facebook	843	857
+/valores	882	926
+/valores/0	884	896
+/valores/1	898	910
+/valores/2	912	924

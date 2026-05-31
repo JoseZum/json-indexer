@@ -1,0 +1,18 @@
+# Archivo de indice JSON (.jnx)
+# Formato: <ruta>\t<inicio>\t<fin>
+# Generado por libjsonindex
+# Archivo origen: /mnt/c/Users/jfzum/OneDrive/Documentos/TEC/SEM-5/SISTEMAS OPERATIVOS/Proyecto2/json-indexer/tests/datos.json
+# Cantidad de entradas: 13
+/usuarios	16	166
+/usuarios/0	22	88
+/usuarios/0/id	36	37
+/usuarios/0/nombre	55	60
+/usuarios/0/activo	78	82
+/usuarios/1	94	162
+/usuarios/1/id	108	109
+/usuarios/1/nombre	127	133
+/usuarios/1/activo	151	156
+/config	180	252
+/config/version	197	202
+/config/opciones	220	248
+/config/opciones/modo	236	242
