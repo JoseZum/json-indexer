@@ -2,8 +2,8 @@
 
 Indexado y búsqueda de archivos JSON mediante expresiones regulares.
 
-**Proyecto 2 — Sistemas Operativos**
-Autores: José Fabián Zumbado Ruiz y Fabricio Herrera Rodríguez.
+**Proyecto 2: Sistemas Operativos**
+Autores: José Fabián Zumbado Ruiz y Cesar Fabricio Herrera Rodríguez.
 
 ---
 
@@ -187,5 +187,4 @@ make clean && make test
 ## Documentación formal
 
 El informe completo (portada, introducción, análisis del problema,
-solución propuesta, pruebas, análisis y conclusiones) está en
-[`docs/documentacion.md`](docs/documentacion.md).
+solución propuesta, pruebas, análisis y conclusiones) está en /docs.
